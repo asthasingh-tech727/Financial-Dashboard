@@ -27,7 +27,7 @@ A comprehensive Power BI dashboard designed to analyze financial performance, tr
 ## 📊 Dashboard Architecture
 
 ### 1. Data Sources
-c:\users\l470\documents\project3.xlsx
+https://github.com/asthasingh-tech727/Financial-Dashboard/blob/main/Data%20Source.xlsx
 
 ### 2. Key Metrics Tracked
 * **Gross Profit Margin:** $\text{Gross Profit} / \text{Total Revenue}$
@@ -37,8 +37,8 @@ c:\users\l470\documents\project3.xlsx
 ---
 
 ## 📸 Screenshots / Presentation :
-C:\Users\L470\Documents\Financial Dashboard-PPT.pptx
 
+https://github.com/asthasingh-tech727/Financial-Dashboard/blob/main/Financial%20Dashboard%201-PPT.ppsx
 
 ## 👤 Author
 
