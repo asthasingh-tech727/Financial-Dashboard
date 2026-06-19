@@ -44,5 +44,6 @@ https://github.com/asthasingh-tech727/Financial-Dashboard/blob/main/Financial%20
 
 * **Astha Singh** - [GitHub Profile](https://github.com/asthasingh-tech727)
 
-  <img width="736" height="407" alt="image" src="https://github.com/user-attachments/assets/92c9d2fc-f4e0-4220-abd5-203610711fdc" />
+  <img width="1346" height="567" alt="image" src="https://github.com/user-attachments/assets/aee13ddf-e02c-4dd3-8c44-be0d4517d811" />
+
 
